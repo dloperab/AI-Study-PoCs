@@ -1,0 +1,2 @@
+https://www.codepool.biz/multiple-camera-opencv-python-windows.html
+https://www.pyimagesearch.com/2018/08/06/tracking-multiple-objects-with-opencv/
