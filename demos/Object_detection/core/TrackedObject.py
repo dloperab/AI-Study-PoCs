@@ -32,7 +32,7 @@ class TrackedObject:
          if success:
             self.__track()
             self.__draw(frame)
-            if not self.inside():
+            if not self.is_inside():
                self.enabled = False            
 
    def is_inside(self):
